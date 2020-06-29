@@ -17,3 +17,7 @@ After the series ended, J.K. Rowling said in an interview that Luna became the '
 * direct
 * honest
   * does not hesitate in telling or asking you something
+
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
