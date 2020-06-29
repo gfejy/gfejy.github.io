@@ -21,3 +21,5 @@ After the series ended, J.K. Rowling said in an interview that Luna became the '
 As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="https://avatars2.githubusercontent.com/in/15368?s=88&v=4"/>
